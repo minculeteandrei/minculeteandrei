@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Web development, Artificial Intelligence and Cybersecurity
 - 📫 How to reach me: andreiminculete 📷(instagam)
-- ⚡ Fun fact: Why did the salad cross the road?
+- ⚡ Fun fact: Why did the salad cross the road? Because it was green 🤭
 <!--
 **minculeteandrei/minculeteandrei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
